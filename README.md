@@ -28,6 +28,9 @@ Sales by Markets :
 1. highest sale : DELHI NCR 
 2. lowest sale : BENGALURU
 
+## Profit vs sales :
+![image of profit](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Profit%20vs%20Saless.png)
+
 
  ## Dashboard :
   ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Sales%20Analysis%20Dashboard%201.png)
