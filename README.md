@@ -17,8 +17,19 @@ The company was in loss and the director was confused how to proceed, so in this
 ## Revenue by Markets :
 ![image of revenue](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/revenue%20by%20markets.png)
 
+Revenue by Markets :
+1. highest revenue : DELHI NCR 
+2. lowest revenue : BENGALURU
+
 ## Sales by Markets :
  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/sales%20qantity%20by%20market.png)
  
+Sales by Markets :
+1. highest sale : DELHI NCR 
+2. lowest sale : BENGALURU
+
+
  ## Dashboard :
-  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Sales%20Analysis%20Dashboard%201.png)<img src="https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/sales%20qantity%20by%20market.png" width="100" height="100">
+  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Sales%20Analysis%20Dashboard%201.png)
+  
+  
