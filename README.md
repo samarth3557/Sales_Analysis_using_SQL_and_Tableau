@@ -21,4 +21,4 @@ The company was in loss and the director was confused how to proceed, so in this
  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/sales%20qantity%20by%20market.png)
  
  ## Dashboard :
-  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Sales%20Analysis%20Dashboard%201.png)<img src="https://your-image-url.type" width="100" height="100">
+  ![image of sales](https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/Sales%20Analysis%20Dashboard%201.png)<img src="https://github.com/samarth3557/Sales_Analysis_using_SQL_and_Tableau/blob/main/Insight_images/sales%20qantity%20by%20market.png" width="100" height="100">
